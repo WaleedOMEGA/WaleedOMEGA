@@ -8,7 +8,7 @@ Results-driven Senior Front-End Developer with a solid 7-year track record in dy
 
 ## Contact
 
-- ✉️ Email: waleedsalah@live.com
+- ✉️ Email: waleedomega@hotmail.com
 - 💼 LinkedIn: [/in/waleedomega](https://www.linkedin.com/in/waleedomega/)
 - 📝 CodePen: [/WaleedOMEGA](https://codepen.io/WaleedOMEGA)
 - 🐙 GitHub: [/WaleedOMEGA](https://github.com/WaleedOMEGA)
