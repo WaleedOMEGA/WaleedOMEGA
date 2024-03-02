@@ -1,4 +1,4 @@
-# Waleed Salah Abd El Aal
+# Waleed OMEGA
 
 👋 Hello, I'm Waleed, a passionate Senior Front-End Developer based in Egypt.
 
