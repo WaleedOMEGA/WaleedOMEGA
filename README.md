@@ -14,6 +14,16 @@ Results-driven Senior Front-End Developer with a solid 7-year track record in dy
 
 ## Work Experience
 
+### Front End Team Lead, e& (Oct 2024 – Present)
+
+- Led and architected the development of scalable, high-performance front-end applications, adopting a micro-frontend architecture to enable modular, independent deployments across projects.
+- Architected and implemented a micro-frontend architecture for the One Hub platform, enabling modular, independent components to represent each of the seven systems seamlessly within a single interface.
+- Enhanced user experience and workflow efficiency by consolidating multiple systems, allowing customer care and sales teams to access all functionalities in a centralized, intuitive interface.
+- Led integration with back-end services to enable data flow across all seven systems, improving operational speed and reducing the need for switching between systems.
+- Implemented Angular, NgRx, and state management techniques to ensure efficient data handling and smooth transitions between system functionalities.
+- Collaborated with cross-functional teams to define system requirements, address technical challenges, and ensure a seamless integration of all systems.
+- Conducted thorough code reviews and optimization to maintain high performance and scalability, supporting high user loads across multiple regions.
+
 ### Senior Front-End Developer at STC (Dec 2020 - Present)
 
 - Lead the full lifecycle of website development projects.
