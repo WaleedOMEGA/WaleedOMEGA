@@ -24,7 +24,7 @@ Results-driven Senior Front-End Developer with a solid 7-year track record in dy
 - Collaborated with cross-functional teams to define system requirements, address technical challenges, and ensure a seamless integration of all systems.
 - Conducted thorough code reviews and optimization to maintain high performance and scalability, supporting high user loads across multiple regions.
 
-### Senior Front-End Developer at STC (Dec 2020 - Present)
+### Senior Front-End Developer at STC (Dec 2020 - Oct 2024)
 
 - Lead the full lifecycle of website development projects.
 - Implement responsive design strategies for optimal user experiences.
@@ -38,7 +38,7 @@ Results-driven Senior Front-End Developer with a solid 7-year track record in dy
 - **Sales Operation Services:** Oversaw the workflow within the sales cycle hierarchy using Angular, Bootstrap, and Angular Material.
 - **GCEO Activities:** Managed CEO events for all sectors through a streamlined approval workflow using Angular, Bootstrap, and Angular Material.
 
-### Senior Front-End Developer at Aiia Solutions (Dec 2023 – Present) - Part-time
+### Senior Front-End Developer at Aiia Solutions (Dec 2023 – Mar 2024) - Part-time
 
 - Developed a comprehensive system for managing customer accounts, stores, and products.
 
