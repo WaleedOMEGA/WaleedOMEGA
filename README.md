@@ -78,6 +78,8 @@ Results-driven Senior Front-End Developer with a solid 7-year track record in dy
 - TypeScript
 - RESTful APIs
 - Angular
+- Micro Frontend
+- Angular Library
 
 ### Experienced
 
