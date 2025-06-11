@@ -64,7 +64,7 @@ I’m always open to contributing to:
 
 ## 📫 Let's Connect
 
-- ✉️ **Email:** [waleedsalah@live.com](mailto:waleedsalah@live.com)  
+- ✉️ **Email:** [waleedomega@hotmail.com](mailto:waleedomega@hotmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/waleedomega](https://www.linkedin.com/in/waleedomega)  
 - 💻 **GitHub:** [github.com/WaleedOMEGA](https://github.com/WaleedOMEGA)  
 - 🎨 **CodePen:** [codepen.io/WaleedOMEGA](https://codepen.io/WaleedOMEGA)  
