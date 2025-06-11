@@ -1,115 +1,74 @@
-# Waleed OMEGA
+# 👋 Hi, I'm Waleed Omega
 
-👋 Hello, I'm Waleed, a passionate Senior Front-End Developer based in Egypt.
+### 🚀 Front-End Team Lead | Angular Expert | Micro-Frontend Architect
 
-## About Me
+I'm a results-driven Front-End Engineer based in Cairo, Egypt, with 7+ years of experience building scalable, high-performance web applications. Currently leading front-end development at **e& (Etisalat Group)**, I specialize in Angular, state management with NgRx, and modular architectures like micro-frontends.
 
-Results-driven Senior Front-End Developer with a solid 7-year track record in dynamic and responsive UI development. Known for proven leadership in diverse team environments, consistently delivering high-quality solutions. Proficient in leveraging the latest front-end technologies to enhance user experiences. Committed to exceeding customer satisfaction through the delivery of scalable, well-documented code. Specializing in top-notch product delivery, I bring hands-on expertise that ensures optimal performance and seamless functionality.
+---
 
-## Contact
+## 🔧 Tech Stack
 
-- ✉️ Email: waleedomega@hotmail.com
-- 💼 LinkedIn: [/in/waleedomega](https://www.linkedin.com/in/waleedomega/)
-- 📝 CodePen: [/WaleedOMEGA](https://codepen.io/WaleedOMEGA)
+**Languages & Fundamentals:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-## Work Experience
+**Frameworks & Libraries:**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![NgRx](https://img.shields.io/badge/-NgRx-8A2BE2?logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-009688?logo=material-design&logoColor=white)
 
-### Front End Team Lead, e& (Oct 2024 – Present)
+**Architecture & Tools:**  
+![Micro-Frontends](https://img.shields.io/badge/-Micro--Frontend-003B57?logo=webpack&logoColor=white)
+![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 
-- Led and architected the development of scalable, high-performance front-end applications, adopting a micro-frontend architecture to enable modular, independent deployments across projects.
-- Architected and implemented a micro-frontend architecture for the One Hub platform, enabling modular, independent components to represent each of the seven systems seamlessly within a single interface.
-- Enhanced user experience and workflow efficiency by consolidating multiple systems, allowing customer care and sales teams to access all functionalities in a centralized, intuitive interface.
-- Led integration with back-end services to enable data flow across all seven systems, improving operational speed and reducing the need for switching between systems.
-- Implemented Angular, NgRx, and state management techniques to ensure efficient data handling and smooth transitions between system functionalities.
-- Collaborated with cross-functional teams to define system requirements, address technical challenges, and ensure a seamless integration of all systems.
-- Conducted thorough code reviews and optimization to maintain high performance and scalability, supporting high user loads across multiple regions.
+---
 
-### Senior Front-End Developer at STC (Dec 2020 - Oct 2024)
+## 💼 Current Role
 
-- Lead the full lifecycle of website development projects.
-- Implement responsive design strategies for optimal user experiences.
-- Collaborate with UX/UI designers to transform mockups into interactive web pages.
-- Utilize Angular, Bootstrap, and Angular Material for robust applications.
-- Conduct code reviews and mentor junior developers.
+### **Front-End Team Lead @ e& (Etisalat Group)**  
+*Oct 2024 – Present*
 
-#### Notable Projects
+- Architected and delivered the **Flexi Platform**, consolidating 7 systems into a unified UI via micro-frontends.
+- Led the integration of Angular + NgRx-based state management for modular scalability.
+- Collaborated with cross-functional teams to align technical architecture with business goals.
+- Optimized performance for high-traffic use across multiple regions.
 
-- **EBU Planning Portal:** Designed to estimate revenue and bonuses for sales employees using Angular, Bootstrap, and Angular Material.
-- **Sales Operation Services:** Oversaw the workflow within the sales cycle hierarchy using Angular, Bootstrap, and Angular Material.
-- **GCEO Activities:** Managed CEO events for all sectors through a streamlined approval workflow using Angular, Bootstrap, and Angular Material.
+---
 
-### Senior Front-End Developer at Aiia Solutions (Dec 2023 – Mar 2024) - Part-time
+## 🧠 Skills & Focus Areas
 
-- Developed a comprehensive system for managing customer accounts, stores, and products.
+- ✅ Angular Ecosystem Mastery (14+ to 19)
+- ✅ Micro-Frontend Architecture
+- ✅ Component Library Development
+- ✅ State Management with NgRx & Signals
+- ✅ UX Performance Optimization
+- ✅ CI/CD in Front-End Workflows
+- ✅ Clean Code, Scalable Structure, and TDD
 
-### Senior Front-End Developer at Linux Plus (Feb 2019 - Nov 2020)
+---
 
-- Replicated the functionality of Postman using Angular and Angular Material.
-- Led the design and development of a web and mobile application for vessel registration and monitoring in the Suez Canal using Native Script.
-- Developed an online platform allowing members to challenge themselves in various technology aspects.
+## 🧪 Open to Collaboration
 
-### Front End Trainer at Web Coding (July 2015 - Dec 2022) - Part-time
+I’m always open to contributing to:
+- 📦 Angular Libraries or Tools
+- 🏗 Micro-Frontend Integrations
+- ⚙️ Performance Optimization Projects
+- 🧪 Testing & Architecture Best Practices
 
-- Design and implement a comprehensive curriculum covering essential front-end technologies, frameworks, and best practices.
-- Deliver practical exercises and coding challenges.
-- Provide personalized guidance and feedback on coding assignments.
+---
 
-### Front End Developer at APG (Dec 2015 - Jan 2019)
+## 📫 Let's Connect
 
-### UI Developer - Freelancer (Dec 2013 - Dec 2015)
+- ✉️ **Email:** [waleedsalah@live.com](mailto:waleedsalah@live.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/waleedomega](https://www.linkedin.com/in/waleedomega)  
+- 💻 **GitHub:** [github.com/WaleedOMEGA](https://github.com/WaleedOMEGA)  
+- 🎨 **CodePen:** [codepen.io/WaleedOMEGA](https://codepen.io/WaleedOMEGA)  
 
-### Vb.net Developer - Freelancer (Dec 2011 - Dec 2013)
+---
 
-## Education
-
-- Mini ITI, Route Academy
-- Advanced Full Stack Web Development Nanodegree Program, Udacity
-- Web Development Professional Nanodegree Program, Udacity
-- Advanced Programming Diploma, AGC Academy
-
-## Skills
-
-### Proficient
-
-- HTML
-- CSS
-- JavaScript (ES6+)
-- jQuery
-- TypeScript
-- RESTful APIs
-- Angular
-- Micro Frontend
-- Angular Library
-
-### Experienced
-
-- CSS Preprocessing
-- Gulp JS
-- Bootstrap
-- Angular Material
-- Version Control
-- Responsive Design
-
-### Familiar
-
-- Native Script
-- NodeJS
-- React JS
-- Vue JS
-- Unit Testing
-- Agile/Scrum
-- Webpack
-- VB.NET
-- C#
-- SQL
-- Web Performance Optimization
-- State Management
-- Browser Developer Tools
-- Cross-Browser Compatibility
-- Code Collaboration and Review
-- Web Accessibility (WCAG)
-- Package Managers
-- Front-End Build Architecture
-- Design Tools
-- Command Line/Shell Scripting
-- Soft Skills
+> “Great user experiences start with solid engineering.” – Me
